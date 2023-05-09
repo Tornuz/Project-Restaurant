@@ -14,4 +14,3 @@ The prerequisites for building such an amazing website are -:
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
